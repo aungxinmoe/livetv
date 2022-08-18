@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MYANMAR" tvg-language="MYANMAR" tvg-logo="" group-title="MYANMAR",MAHAR
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MYANMAR" tvg-language="MYANMAR" tvg-logo="" group-title="MYANMAR",SkyNET
+http://oceanisland.us:8080/live/Gcd58567/Gcd58567/53.m3u8
